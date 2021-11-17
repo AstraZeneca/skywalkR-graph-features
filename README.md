@@ -15,8 +15,11 @@ Run the following command to install RAPIDS-21.08 and the necessary package to r
 `conda env create -f rapids-notebook-req.yml`
 
 Activate this environment with:
+
 `conda activate graphfeaturesnotebook`
 
 You can then package this environment in a Jupyter kernel:
+
 `python -m ipykernel install --user --name=graphfeaturesnotebook`
 
+The Jupyter kernel necessary to run this notebook should now be available in your favorite Jupyter instance.
