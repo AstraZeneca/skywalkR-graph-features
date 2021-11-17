@@ -10,10 +10,6 @@ First of all, thanks for considering contributing to graph features notebooks.
 [citation]: TBA
 [email]: mailto:michael.ughetto@astrazeneca.com, mailto:anna.gogleva@astrazeneca.com
 
-## Code of conduct
-
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
-
 ## How you can contribute
 
 There are several ways you can contribute to this project. If you want to know more about why and how to contribute to open source projects like this one, see this [Open Source Guide](https://opensource.guide/how-to-contribute/).
