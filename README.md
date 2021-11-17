@@ -7,3 +7,16 @@ The repository contains two Jypyter notebooks:
  - ``graph_features_Hetionet.ipynb`` - here we used [Hetionet graph](https://het.io/about/#whats-in-hetionet) as a representative example of reasonably complex biomedical graph;
 
 ### Set-up and installation instructions 
+
+If not already installed on your setup, install Conda (eg. https://docs.conda.io/en/latest/miniconda.html ).
+
+Run the following command to install RAPIDS-21.08 and the necessary package to run the notebook in a new Conda environment named `graphfeaturesnotebook`:
+
+`conda env create -f rapids-notebook-req.yml`
+
+Activate this environment with:
+`conda activate graphfeaturesnotebook`
+
+You can then package this environment in a Jupyter kernel:
+`python -m ipykernel install --user --name=graphfeaturesnotebook`
+

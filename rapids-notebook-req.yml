@@ -1,0 +1,19 @@
+name: graphfeaturesnotebook
+channels:
+  - nvidia
+  - rapidsai
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython=7.27.0=py38he5a9106_0
+  - python=3.8
+  - pip=21.2.4=pyhd8ed1ab_0
+  - rapids=21.08.00=cuda11.0_py38_ga776927_74
+  - rapids-blazing=21.08.00=cuda11.0_py38_ga776927_74
+  - rapids-xgboost=21.08.00=cuda11.0_py38_ga776927_74
+  - networkx=2.6.2=pyhd8ed1ab_0
+  - numpy=1.21.2=py38he2449b9_0
+  - pandas=1.2.5=py38h1abd341_0
+  - pip:
+    - karateclub==1.2.2
+
