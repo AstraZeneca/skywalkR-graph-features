@@ -1,5 +1,6 @@
 # skywalkR-graph-features
-![Maturity level-Prototype](https://img.shields.io/badge/Maturity%20Level-Prototype-red)
+![Maturity level-Prototype](https://img.shields.io/badge/Maturity%20Level-Prototype-red) [![DOI](https://zenodo.org/badge/426158485.svg)](https://zenodo.org/badge/latestdoi/426158485)
+
 
 This repository contains example notebooks illustrating how to generate knowledge-graph based features. The same types of graph-derived features were used in [Gogleva et al, 2021 manuscript](https://www.biorxiv.org/content/10.1101/2021.07.23.453506v3) and [skywalkR app](https://github.com/AstraZeneca/skywalkR)
 The repository contains two Jypyter notebooks: 
